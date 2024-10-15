@@ -6,9 +6,10 @@
 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=SergioSemprebom&theme=shadow_green_icons=true&show_icons=true" height="180em">
+---
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSemprebom&layout=compact" height="180em">
 </p>
-
+---
 <p align="center"> 
   <img align="center" alt="SergioSemprebom-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
