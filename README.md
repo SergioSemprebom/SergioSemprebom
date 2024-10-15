@@ -5,7 +5,7 @@
 - 😊Pronouns - ele/dele
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=SergioSemprebom&theme=shadow_green_icons=true&show_icons=true" height="180em">
+<img src="https://github-readme-stats.vercel.app/api?username=SergioSemprebom&theme=shadow_green_icons=true&layout=compact&show_icons=true" height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioSemprebom&layout=compact" height="180em">
 </p>
 
