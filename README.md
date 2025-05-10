@@ -1,7 +1,7 @@
 ### Olá! Sou o Sergio Luiz Semprebom👋
 
 - 💻hoje trabalho como Analista de Processos Sr
-- 🤓Estudando Python - Engenharia de Dados | Ciências de Dados | Analise de Dados | Python WEB | Docker | Mysql/PostgreSQL/SQL Server |
+- 🤓Estudando Python - Engenharia de Dados|Ciências de Dados|Analise de Dados|Python WEB|Docker|Mysql/PostgreSQL/SQL Server|
 - 😊Pronouns - ele/dele
 
 <p align="left"> 
