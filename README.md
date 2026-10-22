@@ -1,33 +1,45 @@
 ### Olá! Sou o Sergio Luiz Semprebom👋
 
 - 💻hoje trabalho como Analista de Processos Sr
-- 🤓- Profissional de Ciência de Dados, Data Analytics e Tecnologia da Informação, com experiência em Python, SQL, ETL, Business Intelligence e desenvolvimento de soluções analíticas, atuando na integração, transformação, automação e visualização de dados.
+- 🤓- ## 🚀 Sobre mim
 
-Tenho experiência no desenvolvimento de pipelines de ETL, automação de processos, tratamento de grandes volumes de dados e construção de dashboards corporativos com Power BI, utilizando Pandas, NumPy, Power Query, linguagem M e DAX para modelagem de dados, criação de KPIs e análises gerenciais.
+Profissional de **Ciência de Dados, Data Analytics e Tecnologia da Informação**, com experiência em **Python, SQL, ETL, Business Intelligence e automação de processos**, atuando no desenvolvimento de *soluções analíticas, integração de sistemas e transformação de dados em informações estratégicas*.
 
-Atuo em projetos que integram Python, SQL, Power BI e inteligência artificial, explorando ferramentas como Claude Code, Model Context Protocol (MCP), Agent Harness e agentes de IA para automatizar fluxos de desenvolvimento, apoiar análises técnicas e melhorar a produtividade na construção de soluções.
+Possuo experiência no desenvolvimento de **pipelines de ETL**, automação de processos e tratamento de grandes volumes de dados, utilizando **Python, Pandas, NumPy, SQL, Power Query, linguagem M e DAX** para *extração, transformação, modelagem, análise e visualização de dados*.
 
-Entre meus projetos, destacam-se:
+Atuo em projetos que integram **Python, Power BI, SQL e Inteligência Artificial**, explorando tecnologias como **Claude Code, Model Context Protocol (MCP), Agent Harness, Skills, Subagents e Hooks**, com foco na *orquestração de agentes de IA, automação de workflows e otimização de processos de desenvolvimento*.
 
-Business Intelligence e Analytics: desenvolvimento de dashboards financeiros, análises de faturamento, indicadores de rentabilidade, custos, receitas e desempenho operacional.
+### 💻 Projetos e experiências
 
-Engenharia de Dados e ETL: processamento, padronização e integração de múltiplas planilhas e fontes de dados, utilizando Python e SQL.
+- 📊 **Business Intelligence e Data Analytics:** desenvolvimento de *dashboards financeiros e operacionais*, utilizando **Power BI, DAX e Power Query**, com indicadores de faturamento, receitas, custos, lucratividade e desempenho por cliente.
 
-Power BI e MCP: integração de ferramentas de IA com modelos semânticos do Power BI, apoiando a análise de medidas DAX, relacionamentos e estruturas de dados.
+- ⚙️ **Engenharia de Dados e ETL:** construção de rotinas de *extração, limpeza, transformação e integração de múltiplas fontes de dados*, utilizando **Python, Pandas, NumPy e SQL**.
 
-IA e Agent Harness: estudos e experimentações com arquiteturas de agentes, Skills, Subagents, MCP, Hooks e automação de workflows de desenvolvimento.
+- 🤖 **Inteligência Artificial e MCP:** integração de **Claude Code, Power BI MCP e ferramentas de IA** para *análise de modelos semânticos, validação de medidas DAX, inspeção de relacionamentos e apoio ao desenvolvimento de soluções analíticas*.
 
-Automação e Web Scraping: desenvolvimento de rotinas Python para coleta, organização, validação e processamento de informações.
+- 🧠 **Agent Harness e AI Engineering:** estudos e experimentações com **Agent Harness, MCP, Skills, Subagents, Hooks e Plugins**, explorando *arquiteturas de agentes inteligentes, orquestração de ferramentas e automação de tarefas técnicas*.
 
-Desenvolvimento e Visualização: utilização de HTML, CSS, SVG e Figma para criação de interfaces, componentes visuais e experiências analíticas personalizadas.
+- 🌐 **Automação e Web Scraping:** desenvolvimento de soluções com **Python e SQL** para *coleta automatizada de informações, organização de dados, processamento de planilhas e consultas estruturadas*.
 
-Também possuo vivência em operações de TI, sustentação de sistemas e resolução de incidentes críticos, participando de reuniões técnicas e atividades multidisciplinares com equipes de infraestrutura, redes, segurança e desenvolvimento.
+- 🎨 **Interfaces e Visualização de Dados:** desenvolvimento e personalização de componentes com **HTML, CSS, SVG e Figma**, criando *interfaces interativas, layouts personalizados e experiências visuais para dashboards corporativos*.
 
-Atualmente, concentro minha evolução profissional na convergência entre Data Analytics, Engenharia de Dados, Inteligência Artificial e automação inteligente, buscando desenvolver soluções escaláveis, bem estruturadas e orientadas a resultados.
+- 🖥️ **Operações e Infraestrutura de TI:** experiência em *sustentação de sistemas, análise de incidentes críticos, restauração de serviços e colaboração técnica* com equipes de **Infraestrutura, Redes, Segurança e Desenvolvimento**.
 
-Stack tecnológica: Python | SQL | MySQL | Pandas | NumPy | Power BI | DAX | Power Query | M | ETL | Git | GitHub | Claude Code | MCP | Agent Harness | HTML | CSS | SVG | Figma
+### 🛠️ Stack tecnológica
 
-Áreas de interesse: Data Analytics • Data Engineering • Business Intelligence • AI Engineering • Machine Learning • Automação de Processos
+**Linguagens:** Python • SQL • DAX • M • HTML • CSS
+
+**Dados e Analytics:** Power BI • Pandas • NumPy • Power Query • MySQL • ETL
+
+**IA e Automação:** Claude Code • MCP • Agent Harness • Skills • Subagents • Hooks
+
+**Desenvolvimento:** Git • GitHub • VS Code • Figma • SVG
+
+### 🎯 Foco profissional
+
+Atualmente, direciono meu desenvolvimento profissional para a convergência entre **Data Analytics, Data Engineering, Business Intelligence e AI Engineering**, buscando aplicar *inteligência artificial, automação e engenharia de software* na criação de soluções **escaláveis, eficientes e orientadas a resultados**.
+
+*Meu objetivo é ir além da análise tradicional de dados, conectando ferramentas, processos e agentes de IA para transformar desafios operacionais em soluções tecnológicas inteligentes.*
 - 😊Pronouns - ele/dele
 
 <p align="left"> 
