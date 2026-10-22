@@ -1,6 +1,6 @@
 ### Olá! Sou o Sergio Luiz Semprebom👋
 
-- 💻hoje trabalho como Analista de Processos Sr
+- 💻hoje trabalho como Coordenador de Operações de T.i
 - 🤓- ## 🚀 Sobre mim
 
 Profissional de **Ciência de Dados, Data Analytics e Tecnologia da Informação**, com experiência em **Python, SQL, ETL, Business Intelligence e automação de processos**, atuando no desenvolvimento de *soluções analíticas, integração de sistemas e transformação de dados em informações estratégicas*.
